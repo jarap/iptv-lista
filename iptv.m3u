@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://jarap.github.io/iptv-epg-argentina/epg.xml.gz"
-#EXTINF:-1 tvg-id="a0hs" tvg-name="America TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hs.png" group-title="NACIONALES",America TV
-http://181.191.140.4:8000/play/a0hs/index.m3u8
+#EXTINF:-1 tvg-id="a1qw" tvg-name="America TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1qw.png" group-title="NACIONALES",America TV
+http://181.191.140.4:8000/play/a1qw/index.m3u8
 #EXTINF:-1 tvg-id="a1q7" tvg-name="El Nueve" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1q7.png" group-title="NACIONALES",El Nueve
 http://181.191.140.4:8000/play/a1q7/index.m3u8
 #EXTINF:-1 tvg-id="a1t1" tvg-name="Telefe" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1t1.png" group-title="NACIONALES",Telefe
@@ -11,6 +11,8 @@ http://181.191.140.4:8000/play/a1t2/index.m3u8
 http://181.191.140.4:8000/play/a1un/index.m3u8
 #EXTINF:-1 tvg-id="a1qx" tvg-name="TVP" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1qx.png" group-title="NACIONALES",TVP
 http://181.191.140.4:8000/play/a1qx/index.m3u8
+#EXTINF:-1 tvg-id="a0hs" tvg-name="America TV HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hs.png" group-title="INTERNACIONALES",America TV HD
+http://181.191.140.4:8000/play/a0hs/index.m3u8
 #EXTINF:-1 tvg-id="a1gd" tvg-name="Antena 3" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1gd.png" group-title="INTERNACIONALES",Antena 3
 http://181.191.140.4:8000/play/a1gd/index.m3u8
 #EXTINF:-1 tvg-id="a1gs" tvg-name="Canal 13 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1gs.png" group-title="INTERNACIONALES",Canal 13 HD
@@ -65,7 +67,7 @@ http://181.191.140.4:8000/play/a0il/index.m3u8
 http://181.191.140.4:8000/play/a1w8/index.m3u8
 #EXTINF:-1 tvg-id="a1jk" tvg-name="Disney Channel HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jk.png" group-title="INFANTILES",Disney Channel HD
 http://181.191.140.4:8000/play/a1jk/index.m3u8
-#EXTINF:-1 tvg-id="a1ib" tvg-name="Disney Junior" tvg-logo="" group-title="INFANTILES",Disney Junior
+#EXTINF:-1 tvg-id="a1ib" tvg-name="Disney Junior" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ib.png" group-title="INFANTILES",Disney Junior
 http://181.191.140.4:8000/play/a1ib/index.m3u8
 #EXTINF:-1 tvg-id="a0ic" tvg-name="Nick Jr" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ic.png" group-title="INFANTILES",Nick Jr
 http://181.191.140.4:8000/play/a0ic/index.m3u8
@@ -97,7 +99,7 @@ http://181.191.140.4:8000/play/a1jc/index.m3u8
 http://181.191.140.4:8000/play/a1r2/index.m3u8
 #EXTINF:-1 tvg-id="a1kf" tvg-name="ESPN 3 LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1kf.png" group-title="DEPORTES",ESPN 3 LAT
 http://181.191.140.4:8000/play/a1kf/index.m3u8
-#EXTINF:-1 tvg-id="a1tw" tvg-name="ESPN 4 HD" tvg-logo="" group-title="DEPORTES",ESPN 4 HD
+#EXTINF:-1 tvg-id="a1tw" tvg-name="ESPN 4 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1tw.png" group-title="DEPORTES",ESPN 4 HD
 http://181.191.140.4:8000/play/a1tw/index.m3u8
 #EXTINF:-1 tvg-id="a1k7" tvg-name="ESPN 5 LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1k7.png" group-title="DEPORTES",ESPN 5 LAT
 http://181.191.140.4:8000/play/a1k7/index.m3u8
@@ -135,7 +137,7 @@ http://181.191.140.4:8000/play/a1wj/index.m3u8
 http://181.191.140.4:8000/play/a1wc/index.m3u8
 #EXTINF:-1 tvg-id="a1r9" tvg-name="A&E HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1r9.png" group-title="CINE Y SERIES",A&E HD
 http://181.191.140.4:8000/play/a1r9/index.m3u8
-#EXTINF:-1 tvg-id="a1rr" tvg-name="AMC" tvg-logo="" group-title="CINE Y SERIES",AMC
+#EXTINF:-1 tvg-id="a1rr" tvg-name="AMC" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1rr.png" group-title="CINE Y SERIES",AMC
 http://181.191.140.4:8000/play/a1rr/index.m3u8
 #EXTINF:-1 tvg-id="a0lg" tvg-name="ATRES SERIES HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0lg.png" group-title="CINE Y SERIES",ATRES SERIES HD
 http://181.191.140.4:8000/play/a0lg/index.m3u8
@@ -209,7 +211,7 @@ http://181.191.140.4:8000/play/a11l/index.m3u8
 http://181.191.140.4:8000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-id="a0hl" tvg-name="AMC Series HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hl.png" group-title="CINE Y SERIES",AMC Series HD
 http://181.191.140.4:8000/play/a0hl/index.m3u8
-#EXTINF:-1 tvg-id="a1ix" tvg-name="WARNER CHANNELS" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ix.png" group-title="CINE Y SERIES",WARNER CHANNELS
+#EXTINF:-1 tvg-id="a1ix" tvg-name="WARNER CHANNELS" tvg-logo="" group-title="CINE Y SERIES",WARNER CHANNELS
 http://181.191.140.4:8000/play/a1ix/index.m3u8
 #EXTINF:-1 tvg-id="a1g0" tvg-name="Distrito Comedia" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1g0.png" group-title="CINE Y SERIES",Distrito Comedia
 http://181.191.140.4:8000/play/a1g0/index.m3u8
@@ -261,7 +263,7 @@ http://181.191.140.4:8000/play/a1jm/index.m3u8
 http://181.191.140.4:8000/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-id="a0i5" tvg-name="Lifetime" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0i5.png" group-title="INTERES GENERAL",Lifetime
 http://181.191.140.4:8000/play/a0i5/index.m3u8
-#EXTINF:-1 tvg-id="a0h0" tvg-name="Nat Geo HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0h0.png" group-title="INTERES GENERAL",Nat Geo HD
+#EXTINF:-1 tvg-id="a0h0" tvg-name="Nat Geo HD" tvg-logo="" group-title="INTERES GENERAL",Nat Geo HD
 http://181.191.140.4:8000/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-id="a0g1" tvg-name="Pasiones HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g1.png" group-title="INTERES GENERAL",Pasiones HD
 http://181.191.140.4:8000/play/a0g1/index.m3u8
