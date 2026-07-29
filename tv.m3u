@@ -65,7 +65,7 @@ http://10.10.19.246:8000/play/a0il/index.m3u8
 http://10.10.19.246:8000/play/a1w8/index.m3u8
 #EXTINF:-1 tvg-id="a1jk" tvg-name="Disney Channel HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jk.png" group-title="INFANTILES",Disney Channel HD
 http://10.10.19.246:8000/play/a1jk/index.m3u8
-#EXTINF:-1 tvg-id="a1ib" tvg-name="Disney Junior" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ib.svg" group-title="INFANTILES",Disney Junior
+#EXTINF:-1 tvg-id="a1ib" tvg-name="Disney Junior" tvg-logo="" group-title="INFANTILES",Disney Junior
 http://10.10.19.246:8000/play/a1ib/index.m3u8
 #EXTINF:-1 tvg-id="a0ic" tvg-name="Nick Jr" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ic.png" group-title="INFANTILES",Nick Jr
 http://10.10.19.246:8000/play/a0ic/index.m3u8
@@ -97,7 +97,7 @@ http://10.10.19.246:8000/play/a1jc/index.m3u8
 http://10.10.19.246:8000/play/a1r2/index.m3u8
 #EXTINF:-1 tvg-id="a1kf" tvg-name="ESPN 3 LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1kf.png" group-title="DEPORTES",ESPN 3 LAT
 http://10.10.19.246:8000/play/a1kf/index.m3u8
-#EXTINF:-1 tvg-id="a1tw" tvg-name="ESPN 4 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1tw.png" group-title="DEPORTES",ESPN 4 HD
+#EXTINF:-1 tvg-id="a1tw" tvg-name="ESPN 4 HD" tvg-logo="" group-title="DEPORTES",ESPN 4 HD
 http://10.10.19.246:8000/play/a1tw/index.m3u8
 #EXTINF:-1 tvg-id="a1k7" tvg-name="ESPN 5 LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1k7.png" group-title="DEPORTES",ESPN 5 LAT
 http://10.10.19.246:8000/play/a1k7/index.m3u8
@@ -125,11 +125,11 @@ http://10.10.19.246:8000/play/a1jb/index.m3u8
 http://10.10.19.246:8000/play/a1sk/index.m3u8
 #EXTINF:-1 tvg-id="a1fp" tvg-name="Via x Esports" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fp.png" group-title="DEPORTES",Via x Esports
 http://10.10.19.246:8000/play/a1fp/index.m3u8
-#EXTINF:-1 tvg-id="a1wk" tvg-name="DSports 2 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wk.png" group-title="DEPORTES",DSports 2 HD
+#EXTINF:-1 tvg-id="a1wk" tvg-name="DSports 2 HD" tvg-logo="" group-title="DEPORTES",DSports 2 HD
 http://10.10.19.246:8000/play/a1wk/index.m3u8
 #EXTINF:-1 tvg-id="a1lo" tvg-name="Sun Channel HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1lo.png" group-title="DEPORTES",Sun Channel HD
 http://10.10.19.246:8000/play/a1lo/index.m3u8
-#EXTINF:-1 tvg-id="a1wj" tvg-name="DSports HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wj.png" group-title="DEPORTES",DSports HD
+#EXTINF:-1 tvg-id="a1wj" tvg-name="DSports HD" tvg-logo="" group-title="DEPORTES",DSports HD
 http://10.10.19.246:8000/play/a1wj/index.m3u8
 #EXTINF:-1 tvg-id="a1wc" tvg-name="Movistar Deportes" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wc.png" group-title="DEPORTES",Movistar Deportes
 http://10.10.19.246:8000/play/a1wc/index.m3u8
@@ -213,7 +213,7 @@ http://10.10.19.246:8000/play/a0hl/index.m3u8
 http://10.10.19.246:8000/play/a1ix/index.m3u8
 #EXTINF:-1 tvg-id="a1g0" tvg-name="Distrito Comedia" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1g0.png" group-title="CINE Y SERIES",Distrito Comedia
 http://10.10.19.246:8000/play/a1g0/index.m3u8
-#EXTINF:-1 tvg-id="a1rv" tvg-name="USA Network" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1rv.png" group-title="CINE Y SERIES",USA Network
+#EXTINF:-1 tvg-id="a1rv" tvg-name="USA Network" tvg-logo="" group-title="CINE Y SERIES",USA Network
 http://10.10.19.246:8000/play/a1rv/index.m3u8
 #EXTINF:-1 tvg-id="a1lp" tvg-name="ANIMAL PLANET" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1lp.png" group-title="INTERES GENERAL",ANIMAL PLANET
 http://10.10.19.246:8000/play/a1lp/index.m3u8
@@ -249,11 +249,11 @@ http://10.10.19.246:8000/play/a1um/index.m3u8
 http://10.10.19.246:8000/play/a0g4/index.m3u8
 #EXTINF:-1 tvg-id="a1ip" tvg-name="The History Channel LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ip.png" group-title="INTERES GENERAL",The History Channel LAT
 http://10.10.19.246:8000/play/a1ip/index.m3u8
-#EXTINF:-1 tvg-id="a0g3" tvg-name="HISTORY 2" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g3.png" group-title="INTERES GENERAL",HISTORY 2
+#EXTINF:-1 tvg-id="a0g3" tvg-name="HISTORY 2" tvg-logo="" group-title="INTERES GENERAL",HISTORY 2
 http://10.10.19.246:8000/play/a0g3/index.m3u8
 #EXTINF:-1 tvg-id="a0ge" tvg-name="ID HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ge.png" group-title="INTERES GENERAL",ID HD
 http://10.10.19.246:8000/play/a0ge/index.m3u8
-#EXTINF:-1 tvg-id="a0fb" tvg-name="IN" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0fb.png" group-title="INTERES GENERAL",IN
+#EXTINF:-1 tvg-id="a0fb" tvg-name="IN" tvg-logo="" group-title="INTERES GENERAL",IN
 http://10.10.19.246:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="a1jm" tvg-name="Las Estrellas HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jm.png" group-title="INTERES GENERAL",Las Estrellas HD
 http://10.10.19.246:8000/play/a1jm/index.m3u8
@@ -265,13 +265,13 @@ http://10.10.19.246:8000/play/a0i5/index.m3u8
 http://10.10.19.246:8000/play/a0h0/index.m3u8
 #EXTINF:-1 tvg-id="a0g1" tvg-name="Pasiones HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g1.png" group-title="INTERES GENERAL",Pasiones HD
 http://10.10.19.246:8000/play/a0g1/index.m3u8
-#EXTINF:-1 tvg-id="a1t4" tvg-name="RT en Espaæol" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1t4.png" group-title="INTERES GENERAL",RT en Espaæol
+#EXTINF:-1 tvg-id="a1t4" tvg-name="RT en Espaæol" tvg-logo="" group-title="INTERES GENERAL",RT en Espaæol
 http://10.10.19.246:8000/play/a1t4/index.m3u8
 #EXTINF:-1 tvg-id="a1s7" tvg-name="Rural" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1s7.png" group-title="INTERES GENERAL",Rural
 http://10.10.19.246:8000/play/a1s7/index.m3u8
 #EXTINF:-1 tvg-id="a0l0" tvg-name="Tlnovelas" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0l0.png" group-title="INTERES GENERAL",Tlnovelas
 http://10.10.19.246:8000/play/a0l0/index.m3u8
-#EXTINF:-1 tvg-id="a0ix" tvg-name="TNT Novelas HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ix.png" group-title="INTERES GENERAL",TNT Novelas HD
+#EXTINF:-1 tvg-id="a0ix" tvg-name="TNT Novelas HD" tvg-logo="" group-title="INTERES GENERAL",TNT Novelas HD
 http://10.10.19.246:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-id="a110" tvg-name="TLC" tvg-logo="https://jarap.github.io/iptv-lista/logos/a110.png" group-title="INTERES GENERAL",TLC
 http://10.10.19.246:8000/play/a110/index.m3u8
