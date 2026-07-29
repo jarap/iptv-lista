@@ -1,109 +1,151 @@
 #EXTM3U url-tvg="https://jarap.github.io/iptv-epg-argentina/epg.xml.gz"
-#EXTINF:-1 tvg-id="a1q7" tvg-name="El Nueve HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1q7.png" group-title="NACIONALES",El Nueve HD
-http://181.191.140.4:8000/play/a1q7/index.m3u8
-#EXTINF:-1 tvg-id="a1t1" tvg-name="Telefe HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1t1.png" group-title="NACIONALES",Telefe HD
-http://181.191.140.4:8000/play/a1t1/index.m3u8
-#EXTINF:-1 tvg-id="a1t2" tvg-name="El Trece HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1t2.png" group-title="NACIONALES",El Trece HD
-http://181.191.140.4:8000/play/a1t2/index.m3u8
-#EXTINF:-1 tvg-id="a0hs" tvg-name="America TV HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hs.png" group-title="NACIONALES",America TV HD
+#EXTINF:-1 tvg-id="a0hs" tvg-name="America TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hs.png" group-title="NACIONALES",America TV
 http://181.191.140.4:8000/play/a0hs/index.m3u8
-#EXTINF:-1 tvg-id="a1lp" tvg-name="Animal Planet" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1lp.png" group-title="INTERES GENERAL",Animal Planet
-http://181.191.140.4:8000/play/a1lp/index.m3u8
-#EXTINF:-1 tvg-id="a0ft" tvg-name="Canal a" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ft.png" group-title="INTERES GENERAL",Canal a
-http://181.191.140.4:8000/play/a0ft/index.m3u8
-#EXTINF:-1 tvg-id="a0hw" tvg-name="Canal de la Ciudad" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hw.png" group-title="INTERES GENERAL",Canal de la Ciudad
-http://181.191.140.4:8000/play/a0hw/index.m3u8
-#EXTINF:-1 tvg-id="a1s9" tvg-name="Ciudad Magazine" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1s9.png" group-title="INTERES GENERAL",Ciudad Magazine
-http://181.191.140.4:8000/play/a1s9/index.m3u8
-#EXTINF:-1 tvg-id="a0iz" tvg-name="Discovery Channel HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0iz.png" group-title="INTERES GENERAL",Discovery Channel HD
-http://181.191.140.4:8000/play/a0iz/index.m3u8
-#EXTINF:-1 tvg-id="a0iy" tvg-name="Discovery H&H HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0iy.png" group-title="INTERES GENERAL",Discovery H&H HD
-http://181.191.140.4:8000/play/a0iy/index.m3u8
-#EXTINF:-1 tvg-id="a0g5" tvg-name="Discovery Science" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g5.png" group-title="INTERES GENERAL",Discovery Science
-http://181.191.140.4:8000/play/a0g5/index.m3u8
-#EXTINF:-1 tvg-id="a0xm" tvg-name="Discovery Theater HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0xm.png" group-title="INTERES GENERAL",Discovery Theater HD
-http://181.191.140.4:8000/play/a0xm/index.m3u8
-#EXTINF:-1 tvg-id="a1id" tvg-name="Discovery Turbo" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1id.png" group-title="INTERES GENERAL",Discovery Turbo
-http://181.191.140.4:8000/play/a1id/index.m3u8
-#EXTINF:-1 tvg-id="a0gm" tvg-name="Discovery World HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0gm.png" group-title="INTERES GENERAL",Discovery World HD
-http://181.191.140.4:8000/play/a0gm/index.m3u8
-#EXTINF:-1 tvg-id="a0ho" tvg-name="E! Entertainment TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ho.png" group-title="INTERES GENERAL",E! Entertainment TV
-http://181.191.140.4:8000/play/a0ho/index.m3u8
-#EXTINF:-1 tvg-id="a0lh" tvg-name="El Gourmet HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0lh.png" group-title="INTERES GENERAL",El Gourmet HD
-http://181.191.140.4:8000/play/a0lh/index.m3u8
-#EXTINF:-1 tvg-id="a0fc" tvg-name="Encuentro" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0fc.png" group-title="INTERES GENERAL",Encuentro
-http://181.191.140.4:8000/play/a0fc/index.m3u8
-#EXTINF:-1 tvg-id="a1um" tvg-name="Global" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1um.png" group-title="INTERES GENERAL",Global
-http://181.191.140.4:8000/play/a1um/index.m3u8
-#EXTINF:-1 tvg-id="a0g4" tvg-name="HGTV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g4.png" group-title="INTERES GENERAL",HGTV
-http://181.191.140.4:8000/play/a0g4/index.m3u8
-#EXTINF:-1 tvg-id="a0h8" tvg-name="The History Channel HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0h8.png" group-title="INTERES GENERAL",The History Channel HD
-http://181.191.140.4:8000/play/a0h8/index.m3u8
-#EXTINF:-1 tvg-id="a0g3" tvg-name="History 2" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g3.png" group-title="INTERES GENERAL",History 2
-http://181.191.140.4:8000/play/a0g3/index.m3u8
-#EXTINF:-1 tvg-id="a0ge" tvg-name="ID HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ge.png" group-title="INTERES GENERAL",ID HD
-http://181.191.140.4:8000/play/a0ge/index.m3u8
-#EXTINF:-1 tvg-id="a0fb" tvg-name="IN" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0fb.png" group-title="INTERES GENERAL",IN
-http://181.191.140.4:8000/play/a0fb/index.m3u8
-#EXTINF:-1 tvg-id="a1jm" tvg-name="Las Estrellas HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jm.png" group-title="INTERES GENERAL",Las Estrellas HD
-http://181.191.140.4:8000/play/a1jm/index.m3u8
-#EXTINF:-1 tvg-id="a0ht" tvg-name="Latina HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ht.png" group-title="INTERES GENERAL",Latina HD
-http://181.191.140.4:8000/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-id="a0i5" tvg-name="Lifetime" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0i5.png" group-title="INTERES GENERAL",Lifetime
-http://181.191.140.4:8000/play/a0i5/index.m3u8
-#EXTINF:-1 tvg-id="a0h0" tvg-name="Nat Geo HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0h0.png" group-title="INTERES GENERAL",Nat Geo HD
-http://181.191.140.4:8000/play/a0h0/index.m3u8
-#EXTINF:-1 tvg-id="a0g1" tvg-name="Pasiones HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g1.png" group-title="INTERES GENERAL",Pasiones HD
-http://181.191.140.4:8000/play/a0g1/index.m3u8
-#EXTINF:-1 tvg-id="a1s7" tvg-name="Rural" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1s7.png" group-title="INTERES GENERAL",Rural
-http://181.191.140.4:8000/play/a1s7/index.m3u8
-#EXTINF:-1 tvg-id="a110" tvg-name="TLC" tvg-logo="https://jarap.github.io/iptv-lista/logos/a110.png" group-title="INTERES GENERAL",TLC
-http://181.191.140.4:8000/play/a110/index.m3u8
-#EXTINF:-1 tvg-id="a0gz" tvg-name="MEGA HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0gz.png" group-title="INTERES GENERAL",MEGA HD
-http://181.191.140.4:8000/play/a0gz/index.m3u8
-#EXTINF:-1 tvg-id="a1rk" tvg-name="26TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1rk.png" group-title="INTERES GENERAL",26TV
-http://181.191.140.4:8000/play/a1rk/index.m3u8
-#EXTINF:-1 tvg-id="a1wl" tvg-name="Clover" tvg-logo="" group-title="INTERES GENERAL",Clover
-http://181.191.140.4:8000/play/a1wl/index.m3u8
-#EXTINF:-1 tvg-id="a1wm" tvg-name="DAYSTAR" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wm.png" group-title="INTERES GENERAL",DAYSTAR
-http://181.191.140.4:8000/play/a1wm/index.m3u8
-#EXTINF:-1 tvg-id="a0h7" tvg-name="E! Entertainment" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0h7.png" group-title="INTERES GENERAL",E! Entertainment
-http://181.191.140.4:8000/play/a0h7/index.m3u8
-#EXTINF:-1 tvg-id="a0hr" tvg-name="Food Network" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hr.png" group-title="INTERES GENERAL",Food Network
-http://181.191.140.4:8000/play/a0hr/index.m3u8
-#EXTINF:-1 tvg-id="a1lc" tvg-name="HEI HD" tvg-logo="" group-title="INTERES GENERAL",HEI HD
-http://181.191.140.4:8000/play/a1lc/index.m3u8
-#EXTINF:-1 tvg-id="a1ip" tvg-name="History Channel HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ip.png" group-title="INTERES GENERAL",History Channel HD
-http://181.191.140.4:8000/play/a1ip/index.m3u8
-#EXTINF:-1 tvg-id="a1rl" tvg-name="La Nacion TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1rl.png" group-title="INTERES GENERAL",La Nacion TV
-http://181.191.140.4:8000/play/a1rl/index.m3u8
-#EXTINF:-1 tvg-id="a1wg" tvg-name="Movistar Informa" tvg-logo="" group-title="INTERES GENERAL",Movistar Informa
-http://181.191.140.4:8000/play/a1wg/index.m3u8
-#EXTINF:-1 tvg-id="a1wd" tvg-name="Plus TV Life" tvg-logo="" group-title="INTERES GENERAL",Plus TV Life
-http://181.191.140.4:8000/play/a1wd/index.m3u8
-#EXTINF:-1 tvg-id="a1lo" tvg-name="Sun Channel HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1lo.png" group-title="INTERES GENERAL",Sun Channel HD
-http://181.191.140.4:8000/play/a1lo/index.m3u8
-#EXTINF:-1 tvg-id="a1hk" tvg-name="Televicentro" tvg-logo="" group-title="INTERES GENERAL",Televicentro
-http://181.191.140.4:8000/play/a1hk/index.m3u8
-#EXTINF:-1 tvg-id="a1qx" tvg-name="TV Publica HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1qx.png" group-title="INTERES GENERAL",TV Publica HD
+#EXTINF:-1 tvg-id="a1q7" tvg-name="El Nueve" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1q7.png" group-title="NACIONALES",El Nueve
+http://181.191.140.4:8000/play/a1q7/index.m3u8
+#EXTINF:-1 tvg-id="a1t1" tvg-name="Telefe" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1t1.png" group-title="NACIONALES",Telefe
+http://181.191.140.4:8000/play/a1t1/index.m3u8
+#EXTINF:-1 tvg-id="a1t2" tvg-name="El Trece" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1t2.png" group-title="NACIONALES",El Trece
+http://181.191.140.4:8000/play/a1t2/index.m3u8
+#EXTINF:-1 tvg-id="a1un" tvg-name="El Trece Internacional" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1un.png" group-title="NACIONALES",El Trece Internacional
+http://181.191.140.4:8000/play/a1un/index.m3u8
+#EXTINF:-1 tvg-id="a1qx" tvg-name="TVP" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1qx.png" group-title="NACIONALES",TVP
 http://181.191.140.4:8000/play/a1qx/index.m3u8
-#EXTINF:-1 tvg-id="a0gy" tvg-name="TV+ HD" tvg-logo="" group-title="INTERES GENERAL",TV+ HD
-http://181.191.140.4:8000/play/a0gy/index.m3u8
-#EXTINF:-1 tvg-id="a1wf" tvg-name="Willax" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wf.png" group-title="INTERES GENERAL",Willax
-http://181.191.140.4:8000/play/a1wf/index.m3u8
+#EXTINF:-1 tvg-id="a1gd" tvg-name="Antena 3" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1gd.png" group-title="INTERNACIONALES",Antena 3
+http://181.191.140.4:8000/play/a1gd/index.m3u8
+#EXTINF:-1 tvg-id="a1gs" tvg-name="Canal 13 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1gs.png" group-title="INTERNACIONALES",Canal 13 HD
+http://181.191.140.4:8000/play/a1gs/index.m3u8
+#EXTINF:-1 tvg-id="a0g0" tvg-name="CHV HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g0.png" group-title="INTERNACIONALES",CHV HD
+http://181.191.140.4:8000/play/a0g0/index.m3u8
+#EXTINF:-1 tvg-id="a0kc" tvg-name="DW Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0kc.png" group-title="INTERNACIONALES",DW Español
+http://181.191.140.4:8000/play/a0kc/index.m3u8
+#EXTINF:-1 tvg-id="a0ih" tvg-name="El Canal  de las Estrellas" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ih.png" group-title="INTERNACIONALES",El Canal  de las Estrellas
+http://181.191.140.4:8000/play/a0ih/index.m3u8
+#EXTINF:-1 tvg-id="a0gb" tvg-name="Galicia TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0gb.png" group-title="INTERNACIONALES",Galicia TV
+http://181.191.140.4:8000/play/a0gb/index.m3u8
+#EXTINF:-1 tvg-id="a0ga" tvg-name="RAI Italia" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ga.png" group-title="INTERNACIONALES",RAI Italia
+http://181.191.140.4:8000/play/a0ga/index.m3u8
+#EXTINF:-1 tvg-id="a1hk" tvg-name="Televicentro" tvg-logo="" group-title="INTERNACIONALES",Televicentro
+http://181.191.140.4:8000/play/a1hk/index.m3u8
+#EXTINF:-1 tvg-id="a0ik" tvg-name="TVE" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ik.png" group-title="INTERNACIONALES",TVE
+http://181.191.140.4:8000/play/a0ik/index.m3u8
+#EXTINF:-1 tvg-id="a0fz" tvg-name="TVN HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0fz.png" group-title="INTERNACIONALES",TVN HD
+http://181.191.140.4:8000/play/a0fz/index.m3u8
+#EXTINF:-1 tvg-id="a1rh" tvg-name="A24" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1rh.png" group-title="NOTICIAS",A24
+http://181.191.140.4:8000/play/a1rh/index.m3u8
+#EXTINF:-1 tvg-id="a1ri" tvg-name="C5N" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ri.png" group-title="NOTICIAS",C5N
+http://181.191.140.4:8000/play/a1ri/index.m3u8
+#EXTINF:-1 tvg-id="a1rk" tvg-name="26TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1rk.png" group-title="NOTICIAS",26TV
+http://181.191.140.4:8000/play/a1rk/index.m3u8
+#EXTINF:-1 tvg-id="a0li" tvg-name="CNN Chile" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0li.png" group-title="NOTICIAS",CNN Chile
+http://181.191.140.4:8000/play/a0li/index.m3u8
+#EXTINF:-1 tvg-id="a0hb" tvg-name="CNN en Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hb.png" group-title="NOTICIAS",CNN en Español
+http://181.191.140.4:8000/play/a0hb/index.m3u8
+#EXTINF:-1 tvg-id="a1hn" tvg-name="CNN International" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1hn.png" group-title="NOTICIAS",CNN International
+http://181.191.140.4:8000/play/a1hn/index.m3u8
+#EXTINF:-1 tvg-id="a1rj" tvg-name="Cronica TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1rj.png" group-title="NOTICIAS",Cronica TV
+http://181.191.140.4:8000/play/a1rj/index.m3u8
+#EXTINF:-1 tvg-id="a1rl" tvg-name="La Nacion TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1rl.png" group-title="NOTICIAS",La Nacion TV
+http://181.191.140.4:8000/play/a1rl/index.m3u8
+#EXTINF:-1 tvg-id="a1fk" tvg-name="NTN 24 Horas" tvg-logo="" group-title="NOTICIAS",NTN 24 Horas
+http://181.191.140.4:8000/play/a1fk/index.m3u8
+#EXTINF:-1 tvg-id="a1qz" tvg-name="TN" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1qz.png" group-title="NOTICIAS",TN
+http://181.191.140.4:8000/play/a1qz/index.m3u8
+#EXTINF:-1 tvg-id="a1hy" tvg-name="CNN Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1hy.png" group-title="NOTICIAS",CNN Español
+http://181.191.140.4:8000/play/a1hy/index.m3u8
+#EXTINF:-1 tvg-id="a1we" tvg-name="Exitosa TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1we.png" group-title="NOTICIAS",Exitosa TV
+http://181.191.140.4:8000/play/a1we/index.m3u8
+#EXTINF:-1 tvg-id="a1u5" tvg-name="ADULTSWIM" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1u5.png" group-title="INFANTILES",ADULTSWIM
+http://181.191.140.4:8000/play/a1u5/index.m3u8
+#EXTINF:-1 tvg-id="a1s6" tvg-name="Baby TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1s6.png" group-title="INFANTILES",Baby TV
+http://181.191.140.4:8000/play/a1s6/index.m3u8
+#EXTINF:-1 tvg-id="a0il" tvg-name="Cartoon Network LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0il.png" group-title="INFANTILES",Cartoon Network LAT
+http://181.191.140.4:8000/play/a0il/index.m3u8
+#EXTINF:-1 tvg-id="a1w8" tvg-name="Discovery Kids" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1w8.png" group-title="INFANTILES",Discovery Kids
+http://181.191.140.4:8000/play/a1w8/index.m3u8
+#EXTINF:-1 tvg-id="a1jk" tvg-name="Disney Channel HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jk.png" group-title="INFANTILES",Disney Channel HD
+http://181.191.140.4:8000/play/a1jk/index.m3u8
+#EXTINF:-1 tvg-id="a1ib" tvg-name="Disney Junior" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ib.svg" group-title="INFANTILES",Disney Junior
+http://181.191.140.4:8000/play/a1ib/index.m3u8
+#EXTINF:-1 tvg-id="a0ic" tvg-name="Nick Jr" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ic.png" group-title="INFANTILES",Nick Jr
+http://181.191.140.4:8000/play/a0ic/index.m3u8
+#EXTINF:-1 tvg-id="a1fc" tvg-name="Nick Music" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fc.png" group-title="INFANTILES",Nick Music
+http://181.191.140.4:8000/play/a1fc/index.m3u8
+#EXTINF:-1 tvg-id="a1jh" tvg-name="Nickelodeon" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jh.png" group-title="INFANTILES",Nickelodeon
+http://181.191.140.4:8000/play/a1jh/index.m3u8
+#EXTINF:-1 tvg-id="a0fd" tvg-name="Pakapaka" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0fd.png" group-title="INFANTILES",Pakapaka
+http://181.191.140.4:8000/play/a0fd/index.m3u8
+#EXTINF:-1 tvg-id="a1fd" tvg-name="Teen Nick" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fd.png" group-title="INFANTILES",Teen Nick
+http://181.191.140.4:8000/play/a1fd/index.m3u8
+#EXTINF:-1 tvg-id="a1fe" tvg-name="Tooncast LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fe.png" group-title="INFANTILES",Tooncast LAT
+http://181.191.140.4:8000/play/a1fe/index.m3u8
+#EXTINF:-1 tvg-id="a1wb" tvg-name="Plim Plim TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wb.png" group-title="INFANTILES",Plim Plim TV
+http://181.191.140.4:8000/play/a1wb/index.m3u8
+#EXTINF:-1 tvg-id="a0fl" tvg-name="AM Sports" tvg-logo="" group-title="DEPORTES",AM Sports
+http://181.191.140.4:8000/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-id="a0hy" tvg-name="DeporTV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hy.png" group-title="DEPORTES",DeporTV
+http://181.191.140.4:8000/play/a0hy/index.m3u8
+#EXTINF:-1 tvg-id="a1r1" tvg-name="ESPN AR" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1r1.png" group-title="DEPORTES",ESPN AR
+http://181.191.140.4:8000/play/a1r1/index.m3u8
+#EXTINF:-1 tvg-id="a1jl" tvg-name="ESPN HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jl.png" group-title="DEPORTES",ESPN HD
+http://181.191.140.4:8000/play/a1jl/index.m3u8
+#EXTINF:-1 tvg-id="a1r0" tvg-name="ESPN 2 AR" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1r0.png" group-title="DEPORTES",ESPN 2 AR
+http://181.191.140.4:8000/play/a1r0/index.m3u8
+#EXTINF:-1 tvg-id="a1jc" tvg-name="ESPN 2 LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jc.png" group-title="DEPORTES",ESPN 2 LAT
+http://181.191.140.4:8000/play/a1jc/index.m3u8
+#EXTINF:-1 tvg-id="a1r2" tvg-name="ESPN3 AR" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1r2.png" group-title="DEPORTES",ESPN3 AR
+http://181.191.140.4:8000/play/a1r2/index.m3u8
+#EXTINF:-1 tvg-id="a1kf" tvg-name="ESPN 3 LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1kf.png" group-title="DEPORTES",ESPN 3 LAT
+http://181.191.140.4:8000/play/a1kf/index.m3u8
+#EXTINF:-1 tvg-id="a1tw" tvg-name="ESPN 4 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1tw.png" group-title="DEPORTES",ESPN 4 HD
+http://181.191.140.4:8000/play/a1tw/index.m3u8
+#EXTINF:-1 tvg-id="a1k7" tvg-name="ESPN 5 LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1k7.png" group-title="DEPORTES",ESPN 5 LAT
+http://181.191.140.4:8000/play/a1k7/index.m3u8
+#EXTINF:-1 tvg-id="a1il" tvg-name="ESPN 6 LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1il.png" group-title="DEPORTES",ESPN 6 LAT
+http://181.191.140.4:8000/play/a1il/index.m3u8
+#EXTINF:-1 tvg-id="a1k8" tvg-name="ESPN 7 LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1k8.png" group-title="DEPORTES",ESPN 7 LAT
+http://181.191.140.4:8000/play/a1k8/index.m3u8
+#EXTINF:-1 tvg-id="a1ty" tvg-name="ESPN PREMIUM AR" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ty.png" group-title="DEPORTES",ESPN PREMIUM AR
+http://181.191.140.4:8000/play/a1ty/index.m3u8
+#EXTINF:-1 tvg-id="a1jn" tvg-name="ESPN Premium LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jn.png" group-title="DEPORTES",ESPN Premium LAT
+http://181.191.140.4:8000/play/a1jn/index.m3u8
+#EXTINF:-1 tvg-id="a1ts" tvg-name="Eventos HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ts.png" group-title="DEPORTES",Eventos HD
+http://181.191.140.4:8000/play/a1ts/index.m3u8
+#EXTINF:-1 tvg-id="a1tx" tvg-name="FOX SPORTS 1" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1tx.png" group-title="DEPORTES",FOX SPORTS 1
+http://181.191.140.4:8000/play/a1tx/index.m3u8
+#EXTINF:-1 tvg-id="a1wi" tvg-name="FOX SPORTS 2" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wi.png" group-title="DEPORTES",FOX SPORTS 2
+http://181.191.140.4:8000/play/a1wi/index.m3u8
+#EXTINF:-1 tvg-id="a1sl" tvg-name="FOX SPORTS 3" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1sl.png" group-title="DEPORTES",FOX SPORTS 3
+http://181.191.140.4:8000/play/a1sl/index.m3u8
+#EXTINF:-1 tvg-id="a1sm" tvg-name="TNT SPORTS" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1sm.png" group-title="DEPORTES",TNT SPORTS
+http://181.191.140.4:8000/play/a1sm/index.m3u8
+#EXTINF:-1 tvg-id="a1jb" tvg-name="TNT Sports Premium LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jb.png" group-title="DEPORTES",TNT Sports Premium LAT
+http://181.191.140.4:8000/play/a1jb/index.m3u8
+#EXTINF:-1 tvg-id="a1sk" tvg-name="TyC Sports HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1sk.png" group-title="DEPORTES",TyC Sports HD
+http://181.191.140.4:8000/play/a1sk/index.m3u8
+#EXTINF:-1 tvg-id="a1fp" tvg-name="Via x Esports" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fp.png" group-title="DEPORTES",Via x Esports
+http://181.191.140.4:8000/play/a1fp/index.m3u8
+#EXTINF:-1 tvg-id="a1wk" tvg-name="DSports 2 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wk.png" group-title="DEPORTES",DSports 2 HD
+http://181.191.140.4:8000/play/a1wk/index.m3u8
+#EXTINF:-1 tvg-id="a1lo" tvg-name="Sun Channel HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1lo.png" group-title="DEPORTES",Sun Channel HD
+http://181.191.140.4:8000/play/a1lo/index.m3u8
+#EXTINF:-1 tvg-id="a1wj" tvg-name="DSports HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wj.png" group-title="DEPORTES",DSports HD
+http://181.191.140.4:8000/play/a1wj/index.m3u8
+#EXTINF:-1 tvg-id="a1wc" tvg-name="Movistar Deportes" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wc.png" group-title="DEPORTES",Movistar Deportes
+http://181.191.140.4:8000/play/a1wc/index.m3u8
 #EXTINF:-1 tvg-id="a1r9" tvg-name="A&E HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1r9.png" group-title="CINE Y SERIES",A&E HD
 http://181.191.140.4:8000/play/a1r9/index.m3u8
 #EXTINF:-1 tvg-id="a1rr" tvg-name="AMC" tvg-logo="" group-title="CINE Y SERIES",AMC
 http://181.191.140.4:8000/play/a1rr/index.m3u8
-#EXTINF:-1 tvg-id="a0lg" tvg-name="Atres Series" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0lg.png" group-title="CINE Y SERIES",Atres Series
+#EXTINF:-1 tvg-id="a0lg" tvg-name="ATRES SERIES HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0lg.png" group-title="CINE Y SERIES",ATRES SERIES HD
 http://181.191.140.4:8000/play/a0lg/index.m3u8
-#EXTINF:-1 tvg-id="a1iy" tvg-name="AXN HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1iy.png" group-title="CINE Y SERIES",AXN HD
+#EXTINF:-1 tvg-id="a1iy" tvg-name="AXN" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1iy.png" group-title="CINE Y SERIES",AXN
 http://181.191.140.4:8000/play/a1iy/index.m3u8
 #EXTINF:-1 tvg-id="a1rw" tvg-name="Cine.AR" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1rw.png" group-title="CINE Y SERIES",Cine.AR
 http://181.191.140.4:8000/play/a1rw/index.m3u8
-#EXTINF:-1 tvg-id="a1iv" tvg-name="Cinecanal HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1iv.png" group-title="CINE Y SERIES",Cinecanal HD
+#EXTINF:-1 tvg-id="a1iv" tvg-name="Cinecanal" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1iv.png" group-title="CINE Y SERIES",Cinecanal
 http://181.191.140.4:8000/play/a1iv/index.m3u8
-#EXTINF:-1 tvg-id="a1qi" tvg-name="Cinemax" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1qi.png" group-title="CINE Y SERIES",Cinemax
+#EXTINF:-1 tvg-id="a1qi" tvg-name="Cinemax LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1qi.png" group-title="CINE Y SERIES",Cinemax LAT
 http://181.191.140.4:8000/play/a1qi/index.m3u8
 #EXTINF:-1 tvg-id="a0gi" tvg-name="Comedy Central HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0gi.png" group-title="CINE Y SERIES",Comedy Central HD
 http://181.191.140.4:8000/play/a0gi/index.m3u8
@@ -111,27 +153,33 @@ http://181.191.140.4:8000/play/a0gi/index.m3u8
 http://181.191.140.4:8000/play/a1fw/index.m3u8
 #EXTINF:-1 tvg-id="a0ia" tvg-name="DHE HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ia.png" group-title="CINE Y SERIES",DHE HD
 http://181.191.140.4:8000/play/a0ia/index.m3u8
+#EXTINF:-1 tvg-id="a1wl" tvg-name="Clover" tvg-logo="" group-title="CINE Y SERIES",Clover
+http://181.191.140.4:8000/play/a1wl/index.m3u8
 #EXTINF:-1 tvg-id="a1tk" tvg-name="Europa Europa" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1tk.png" group-title="CINE Y SERIES",Europa Europa
 http://181.191.140.4:8000/play/a1tk/index.m3u8
-#EXTINF:-1 tvg-id="a1ff" tvg-name="Film&Arts" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ff.png" group-title="CINE Y SERIES",Film&Arts
+#EXTINF:-1 tvg-id="a1ff" tvg-name="Film & Arts HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ff.png" group-title="CINE Y SERIES",Film & Arts HD
 http://181.191.140.4:8000/play/a1ff/index.m3u8
+#EXTINF:-1 tvg-id="a1kb" tvg-name="FX HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1kb.png" group-title="CINE Y SERIES",FX HD
+http://181.191.140.4:8000/play/a1kb/index.m3u8
 #EXTINF:-1 tvg-id="a1jw" tvg-name="Golden" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jw.png" group-title="CINE Y SERIES",Golden
 http://181.191.140.4:8000/play/a1jw/index.m3u8
 #EXTINF:-1 tvg-id="a1jx" tvg-name="Golden Edge" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jx.png" group-title="CINE Y SERIES",Golden Edge
 http://181.191.140.4:8000/play/a1jx/index.m3u8
-#EXTINF:-1 tvg-id="a1fy" tvg-name="HBO 2" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fy.png" group-title="CINE Y SERIES",HBO 2
-http://181.191.140.4:8000/play/a1fy/index.m3u8
-#EXTINF:-1 tvg-id="a1j3" tvg-name="HBO HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1j3.png" group-title="CINE Y SERIES",HBO HD
+#EXTINF:-1 tvg-id="a1j3" tvg-name="HBO LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1j3.png" group-title="CINE Y SERIES",HBO LAT
 http://181.191.140.4:8000/play/a1j3/index.m3u8
-#EXTINF:-1 tvg-id="a1jo" tvg-name="HBO Family HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jo.png" group-title="CINE Y SERIES",HBO Family HD
+#EXTINF:-1 tvg-id="a1fy" tvg-name="HBO 2 LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fy.png" group-title="CINE Y SERIES",HBO 2 LAT
+http://181.191.140.4:8000/play/a1fy/index.m3u8
+#EXTINF:-1 tvg-id="a1fx" tvg-name="HBO + LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fx.png" group-title="CINE Y SERIES",HBO + LAT
+http://181.191.140.4:8000/play/a1fx/index.m3u8
+#EXTINF:-1 tvg-id="a1jo" tvg-name="HBO Family" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jo.png" group-title="CINE Y SERIES",HBO Family
 http://181.191.140.4:8000/play/a1jo/index.m3u8
-#EXTINF:-1 tvg-id="a1jd" tvg-name="HBO POP HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jd.png" group-title="CINE Y SERIES",HBO POP HD
+#EXTINF:-1 tvg-id="a1jd" tvg-name="HBO POP" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jd.png" group-title="CINE Y SERIES",HBO POP
 http://181.191.140.4:8000/play/a1jd/index.m3u8
 #EXTINF:-1 tvg-id="a1gh" tvg-name="HBO Signature" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1gh.png" group-title="CINE Y SERIES",HBO Signature
 http://181.191.140.4:8000/play/a1gh/index.m3u8
-#EXTINF:-1 tvg-id="a1ln" tvg-name="HBO XTREME HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ln.jpg" group-title="CINE Y SERIES",HBO XTREME HD
+#EXTINF:-1 tvg-id="a1ln" tvg-name="HBO Xtreme LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ln.jpg" group-title="CINE Y SERIES",HBO Xtreme LAT
 http://181.191.140.4:8000/play/a1ln/index.m3u8
-#EXTINF:-1 tvg-id="a1gi" tvg-name="HBO MUNDI" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1gi.png" group-title="CINE Y SERIES",HBO MUNDI
+#EXTINF:-1 tvg-id="a1gi" tvg-name="HBO Mundi" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1gi.png" group-title="CINE Y SERIES",HBO Mundi
 http://181.191.140.4:8000/play/a1gi/index.m3u8
 #EXTINF:-1 tvg-id="a1sq" tvg-name="Paramount HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1sq.png" group-title="CINE Y SERIES",Paramount HD
 http://181.191.140.4:8000/play/a1sq/index.m3u8
@@ -149,9 +197,11 @@ http://181.191.140.4:8000/play/a0fq/index.m3u8
 http://181.191.140.4:8000/play/a11o/index.m3u8
 #EXTINF:-1 tvg-id="a0iu" tvg-name="TNT HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0iu.png" group-title="CINE Y SERIES",TNT HD
 http://181.191.140.4:8000/play/a0iu/index.m3u8
-#EXTINF:-1 tvg-id="a1ka" tvg-name="TNT Series HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ka.png" group-title="CINE Y SERIES",TNT Series HD
+#EXTINF:-1 tvg-id="a1ka" tvg-name="TNT SERIES" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ka.png" group-title="CINE Y SERIES",TNT SERIES
 http://181.191.140.4:8000/play/a1ka/index.m3u8
-#EXTINF:-1 tvg-id="a0hq" tvg-name="Universal HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hq.png" group-title="CINE Y SERIES",Universal HD
+#EXTINF:-1 tvg-id="a1k6" tvg-name="UNIVERSAL TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1k6.png" group-title="CINE Y SERIES",UNIVERSAL TV
+http://181.191.140.4:8000/play/a1k6/index.m3u8
+#EXTINF:-1 tvg-id="a0hq" tvg-name="UNIVERSAL HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hq.png" group-title="CINE Y SERIES",UNIVERSAL HD
 http://181.191.140.4:8000/play/a0hq/index.m3u8
 #EXTINF:-1 tvg-id="a11l" tvg-name="USA" tvg-logo="https://jarap.github.io/iptv-lista/logos/a11l.png" group-title="CINE Y SERIES",USA
 http://181.191.140.4:8000/play/a11l/index.m3u8
@@ -159,141 +209,93 @@ http://181.191.140.4:8000/play/a11l/index.m3u8
 http://181.191.140.4:8000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-id="a0hl" tvg-name="AMC Series HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hl.png" group-title="CINE Y SERIES",AMC Series HD
 http://181.191.140.4:8000/play/a0hl/index.m3u8
-#EXTINF:-1 tvg-id="a1kb" tvg-name="FX HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1kb.png" group-title="CINE Y SERIES",FX HD
-http://181.191.140.4:8000/play/a1kb/index.m3u8
+#EXTINF:-1 tvg-id="a1ix" tvg-name="WARNER CHANNELS" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ix.png" group-title="CINE Y SERIES",WARNER CHANNELS
+http://181.191.140.4:8000/play/a1ix/index.m3u8
 #EXTINF:-1 tvg-id="a1g0" tvg-name="Distrito Comedia" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1g0.png" group-title="CINE Y SERIES",Distrito Comedia
 http://181.191.140.4:8000/play/a1g0/index.m3u8
-#EXTINF:-1 tvg-id="a1fx" tvg-name="HBO Plus" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fx.png" group-title="CINE Y SERIES",HBO Plus
-http://181.191.140.4:8000/play/a1fx/index.m3u8
-#EXTINF:-1 tvg-id="a0l0" tvg-name="Tlnovelas" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0l0.png" group-title="CINE Y SERIES",Tlnovelas
-http://181.191.140.4:8000/play/a0l0/index.m3u8
-#EXTINF:-1 tvg-id="a0ix" tvg-name="TNT Novelas HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ix.png" group-title="CINE Y SERIES",TNT Novelas HD
-http://181.191.140.4:8000/play/a0ix/index.m3u8
-#EXTINF:-1 tvg-id="a1k6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1k6.png" group-title="CINE Y SERIES",UNIVERSAL CHANNEL HD
-http://181.191.140.4:8000/play/a1k6/index.m3u8
 #EXTINF:-1 tvg-id="a1rv" tvg-name="USA Network" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1rv.png" group-title="CINE Y SERIES",USA Network
 http://181.191.140.4:8000/play/a1rv/index.m3u8
-#EXTINF:-1 tvg-id="a1ix" tvg-name="Warner Channel HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ix.png" group-title="CINE Y SERIES",Warner Channel HD
-http://181.191.140.4:8000/play/a1ix/index.m3u8
-#EXTINF:-1 tvg-id="a0fl" tvg-name="AM Sports" tvg-logo="" group-title="DEPORTES",AM Sports
-http://181.191.140.4:8000/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-id="a0hy" tvg-name="DeporTV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hy.png" group-title="DEPORTES",DeporTV
-http://181.191.140.4:8000/play/a0hy/index.m3u8
-#EXTINF:-1 tvg-id="a1r1" tvg-name="ESPN HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1r1.png" group-title="DEPORTES",ESPN HD
-http://181.191.140.4:8000/play/a1r1/index.m3u8
-#EXTINF:-1 tvg-id="a1r0" tvg-name="ESPN 2 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1r0.png" group-title="DEPORTES",ESPN 2 HD
-http://181.191.140.4:8000/play/a1r0/index.m3u8
-#EXTINF:-1 tvg-id="a1r2" tvg-name="ESPN 3 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1r2.png" group-title="DEPORTES",ESPN 3 HD
-http://181.191.140.4:8000/play/a1r2/index.m3u8
-#EXTINF:-1 tvg-id="a1tw" tvg-name="ESPN 4 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1tw.png" group-title="DEPORTES",ESPN 4 HD
-http://181.191.140.4:8000/play/a1tw/index.m3u8
-#EXTINF:-1 tvg-id="a1jn" tvg-name="ESPN Premium HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jn.png" group-title="DEPORTES",ESPN Premium HD
-http://181.191.140.4:8000/play/a1jn/index.m3u8
-#EXTINF:-1 tvg-id="a1ts" tvg-name="Eventos HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ts.png" group-title="DEPORTES",Eventos HD
-http://181.191.140.4:8000/play/a1ts/index.m3u8
-#EXTINF:-1 tvg-id="a1wi" tvg-name="Fox Sports 2" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wi.png" group-title="DEPORTES",Fox Sports 2
-http://181.191.140.4:8000/play/a1wi/index.m3u8
-#EXTINF:-1 tvg-id="a1sl" tvg-name="Fox Sports 3 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1sl.png" group-title="DEPORTES",Fox Sports 3 HD
-http://181.191.140.4:8000/play/a1sl/index.m3u8
-#EXTINF:-1 tvg-id="a1sm" tvg-name="TNT Sports HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1sm.png" group-title="DEPORTES",TNT Sports HD
-http://181.191.140.4:8000/play/a1sm/index.m3u8
-#EXTINF:-1 tvg-id="a1fp" tvg-name="Via X Esports" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fp.png" group-title="DEPORTES",Via X Esports
-http://181.191.140.4:8000/play/a1fp/index.m3u8
-#EXTINF:-1 tvg-id="a1wk" tvg-name="DSports 2 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wk.png" group-title="DEPORTES",DSports 2 HD
-http://181.191.140.4:8000/play/a1wk/index.m3u8
-#EXTINF:-1 tvg-id="a1wj" tvg-name="DSports HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wj.png" group-title="DEPORTES",DSports HD
-http://181.191.140.4:8000/play/a1wj/index.m3u8
-#EXTINF:-1 tvg-id="a1j1" tvg-name="ESPN 4HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1j1.png" group-title="DEPORTES",ESPN 4HD
-http://181.191.140.4:8000/play/a1j1/index.m3u8
-#EXTINF:-1 tvg-id="a1k7" tvg-name="ESPN 5HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1k7.png" group-title="DEPORTES",ESPN 5HD
-http://181.191.140.4:8000/play/a1k7/index.m3u8
-#EXTINF:-1 tvg-id="a1il" tvg-name="ESPN 6HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1il.png" group-title="DEPORTES",ESPN 6HD
-http://181.191.140.4:8000/play/a1il/index.m3u8
-#EXTINF:-1 tvg-id="a1k8" tvg-name="ESPN 7HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1k8.png" group-title="DEPORTES",ESPN 7HD
-http://181.191.140.4:8000/play/a1k8/index.m3u8
-#EXTINF:-1 tvg-id="a1tx" tvg-name="Fox Sports HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1tx.png" group-title="DEPORTES",Fox Sports HD
-http://181.191.140.4:8000/play/a1tx/index.m3u8
-#EXTINF:-1 tvg-id="a1wc" tvg-name="Movistar Deportes" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wc.png" group-title="DEPORTES",Movistar Deportes
-http://181.191.140.4:8000/play/a1wc/index.m3u8
-#EXTINF:-1 tvg-id="a1jb" tvg-name="TNT Sports Premiun HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jb.png" group-title="DEPORTES",TNT Sports Premiun HD
-http://181.191.140.4:8000/play/a1jb/index.m3u8
-#EXTINF:-1 tvg-id="a1sk" tvg-name="TyC Sports HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1sk.png" group-title="DEPORTES",TyC Sports HD
-http://181.191.140.4:8000/play/a1sk/index.m3u8
-#EXTINF:-1 tvg-id="a1rh" tvg-name="A24" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1rh.png" group-title="NOTICIAS",A24
-http://181.191.140.4:8000/play/a1rh/index.m3u8
-#EXTINF:-1 tvg-id="a1ri" tvg-name="C5N" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ri.png" group-title="NOTICIAS",C5N
-http://181.191.140.4:8000/play/a1ri/index.m3u8
-#EXTINF:-1 tvg-id="a0li" tvg-name="CNN Chile" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0li.png" group-title="NOTICIAS",CNN Chile
-http://181.191.140.4:8000/play/a0li/index.m3u8
-#EXTINF:-1 tvg-id="a0hb" tvg-name="CNN en Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hb.png" group-title="NOTICIAS",CNN en Español
-http://181.191.140.4:8000/play/a0hb/index.m3u8
-#EXTINF:-1 tvg-id="a1hn" tvg-name="CNN International" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1hn.png" group-title="NOTICIAS",CNN International
-http://181.191.140.4:8000/play/a1hn/index.m3u8
-#EXTINF:-1 tvg-id="a1fk" tvg-name="NTN 24 Horas" tvg-logo="" group-title="NOTICIAS",NTN 24 Horas
-http://181.191.140.4:8000/play/a1fk/index.m3u8
-#EXTINF:-1 tvg-id="a1qz" tvg-name="TN HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1qz.png" group-title="NOTICIAS",TN HD
-http://181.191.140.4:8000/play/a1qz/index.m3u8
-#EXTINF:-1 tvg-id="a1hy" tvg-name="CNN Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1hy.png" group-title="NOTICIAS",CNN Español
-http://181.191.140.4:8000/play/a1hy/index.m3u8
-#EXTINF:-1 tvg-id="a1rj" tvg-name="Crónica" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1rj.png" group-title="NOTICIAS",Crónica
-http://181.191.140.4:8000/play/a1rj/index.m3u8
-#EXTINF:-1 tvg-id="a1we" tvg-name="Exitosa TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1we.png" group-title="NOTICIAS",Exitosa TV
-http://181.191.140.4:8000/play/a1we/index.m3u8
-#EXTINF:-1 tvg-id="a1t4" tvg-name="RT en Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1t4.png" group-title="NOTICIAS",RT en Español
+#EXTINF:-1 tvg-id="a1lp" tvg-name="ANIMAL PLANET" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1lp.png" group-title="INTERES GENERAL",ANIMAL PLANET
+http://181.191.140.4:8000/play/a1lp/index.m3u8
+#EXTINF:-1 tvg-id="a0ft" tvg-name="Canal a" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ft.png" group-title="INTERES GENERAL",Canal a
+http://181.191.140.4:8000/play/a0ft/index.m3u8
+#EXTINF:-1 tvg-id="a0hw" tvg-name="Canal de la Ciudad" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hw.png" group-title="INTERES GENERAL",Canal de la Ciudad
+http://181.191.140.4:8000/play/a0hw/index.m3u8
+#EXTINF:-1 tvg-id="a1s9" tvg-name="ciudad magazine" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1s9.png" group-title="INTERES GENERAL",ciudad magazine
+http://181.191.140.4:8000/play/a1s9/index.m3u8
+#EXTINF:-1 tvg-id="a0iz" tvg-name="Discovery Channel HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0iz.png" group-title="INTERES GENERAL",Discovery Channel HD
+http://181.191.140.4:8000/play/a0iz/index.m3u8
+#EXTINF:-1 tvg-id="a0iy" tvg-name="Discovery H&H HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0iy.png" group-title="INTERES GENERAL",Discovery H&H HD
+http://181.191.140.4:8000/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-id="a0g5" tvg-name="Discovery Science" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g5.png" group-title="INTERES GENERAL",Discovery Science
+http://181.191.140.4:8000/play/a0g5/index.m3u8
+#EXTINF:-1 tvg-id="a0xm" tvg-name="Discovery Theater HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0xm.png" group-title="INTERES GENERAL",Discovery Theater HD
+http://181.191.140.4:8000/play/a0xm/index.m3u8
+#EXTINF:-1 tvg-id="a1id" tvg-name="Discovery Turbo" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1id.png" group-title="INTERES GENERAL",Discovery Turbo
+http://181.191.140.4:8000/play/a1id/index.m3u8
+#EXTINF:-1 tvg-id="a0gm" tvg-name="Discovery World HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0gm.png" group-title="INTERES GENERAL",Discovery World HD
+http://181.191.140.4:8000/play/a0gm/index.m3u8
+#EXTINF:-1 tvg-id="a0ho" tvg-name="E! Entertainment TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ho.png" group-title="INTERES GENERAL",E! Entertainment TV
+http://181.191.140.4:8000/play/a0ho/index.m3u8
+#EXTINF:-1 tvg-id="a0lh" tvg-name="El Gourmet" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0lh.png" group-title="INTERES GENERAL",El Gourmet
+http://181.191.140.4:8000/play/a0lh/index.m3u8
+#EXTINF:-1 tvg-id="a0hr" tvg-name="Food Network" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0hr.png" group-title="INTERES GENERAL",Food Network
+http://181.191.140.4:8000/play/a0hr/index.m3u8
+#EXTINF:-1 tvg-id="a0fc" tvg-name="Encuentro" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0fc.png" group-title="INTERES GENERAL",Encuentro
+http://181.191.140.4:8000/play/a0fc/index.m3u8
+#EXTINF:-1 tvg-id="a1um" tvg-name="Global" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1um.png" group-title="INTERES GENERAL",Global
+http://181.191.140.4:8000/play/a1um/index.m3u8
+#EXTINF:-1 tvg-id="a0g4" tvg-name="HGTV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g4.png" group-title="INTERES GENERAL",HGTV
+http://181.191.140.4:8000/play/a0g4/index.m3u8
+#EXTINF:-1 tvg-id="a1ip" tvg-name="The History Channel LAT" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ip.png" group-title="INTERES GENERAL",The History Channel LAT
+http://181.191.140.4:8000/play/a1ip/index.m3u8
+#EXTINF:-1 tvg-id="a0g3" tvg-name="HISTORY 2" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g3.png" group-title="INTERES GENERAL",HISTORY 2
+http://181.191.140.4:8000/play/a0g3/index.m3u8
+#EXTINF:-1 tvg-id="a0ge" tvg-name="ID HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ge.png" group-title="INTERES GENERAL",ID HD
+http://181.191.140.4:8000/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-id="a0fb" tvg-name="IN" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0fb.png" group-title="INTERES GENERAL",IN
+http://181.191.140.4:8000/play/a0fb/index.m3u8
+#EXTINF:-1 tvg-id="a1jm" tvg-name="Las Estrellas HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jm.png" group-title="INTERES GENERAL",Las Estrellas HD
+http://181.191.140.4:8000/play/a1jm/index.m3u8
+#EXTINF:-1 tvg-id="a0ht" tvg-name="Latina HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ht.png" group-title="INTERES GENERAL",Latina HD
+http://181.191.140.4:8000/play/a0ht/index.m3u8
+#EXTINF:-1 tvg-id="a0i5" tvg-name="Lifetime" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0i5.png" group-title="INTERES GENERAL",Lifetime
+http://181.191.140.4:8000/play/a0i5/index.m3u8
+#EXTINF:-1 tvg-id="a0h0" tvg-name="Nat Geo HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0h0.png" group-title="INTERES GENERAL",Nat Geo HD
+http://181.191.140.4:8000/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-id="a0g1" tvg-name="Pasiones HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g1.png" group-title="INTERES GENERAL",Pasiones HD
+http://181.191.140.4:8000/play/a0g1/index.m3u8
+#EXTINF:-1 tvg-id="a1t4" tvg-name="RT en Espaæol" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1t4.png" group-title="INTERES GENERAL",RT en Espaæol
 http://181.191.140.4:8000/play/a1t4/index.m3u8
-#EXTINF:-1 tvg-id="a1u5" tvg-name="Adult swim HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1u5.png" group-title="INFANTILES",Adult swim HD
-http://181.191.140.4:8000/play/a1u5/index.m3u8
-#EXTINF:-1 tvg-id="a1s6" tvg-name="Baby TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1s6.png" group-title="INFANTILES",Baby TV
-http://181.191.140.4:8000/play/a1s6/index.m3u8
-#EXTINF:-1 tvg-id="a0il" tvg-name="Cartoon Network HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0il.png" group-title="INFANTILES",Cartoon Network HD
-http://181.191.140.4:8000/play/a0il/index.m3u8
-#EXTINF:-1 tvg-id="a1w8" tvg-name="Discovery Kids HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1w8.png" group-title="INFANTILES",Discovery Kids HD
-http://181.191.140.4:8000/play/a1w8/index.m3u8
-#EXTINF:-1 tvg-id="a1sj" tvg-name="Disney Channel HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1sj.svg" group-title="INFANTILES",Disney Channel HD
-http://181.191.140.4:8000/play/a1sj/index.m3u8
-#EXTINF:-1 tvg-id="a1ib" tvg-name="Disney Junior" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1ib.svg" group-title="INFANTILES",Disney Junior
-http://181.191.140.4:8000/play/a1ib/index.m3u8
-#EXTINF:-1 tvg-id="a0ic" tvg-name="Nick Jr" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ic.png" group-title="INFANTILES",Nick Jr
-http://181.191.140.4:8000/play/a0ic/index.m3u8
-#EXTINF:-1 tvg-id="a1fc" tvg-name="Nick Music" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fc.png" group-title="INFANTILES",Nick Music
-http://181.191.140.4:8000/play/a1fc/index.m3u8
-#EXTINF:-1 tvg-id="a0h6" tvg-name="Nickelodeon" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0h6.png" group-title="INFANTILES",Nickelodeon
-http://181.191.140.4:8000/play/a0h6/index.m3u8
-#EXTINF:-1 tvg-id="a0fd" tvg-name="Pakapaka" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0fd.png" group-title="INFANTILES",Pakapaka
-http://181.191.140.4:8000/play/a0fd/index.m3u8
-#EXTINF:-1 tvg-id="a1fd" tvg-name="Teen Nick" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fd.png" group-title="INFANTILES",Teen Nick
-http://181.191.140.4:8000/play/a1fd/index.m3u8
-#EXTINF:-1 tvg-id="a1fe" tvg-name="Tooncast" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1fe.png" group-title="INFANTILES",Tooncast
-http://181.191.140.4:8000/play/a1fe/index.m3u8
-#EXTINF:-1 tvg-id="a1jk" tvg-name="Disney HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jk.png" group-title="INFANTILES",Disney HD
-http://181.191.140.4:8000/play/a1jk/index.m3u8
-#EXTINF:-1 tvg-id="a1jh" tvg-name="Nick HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1jh.png" group-title="INFANTILES",Nick HD
-http://181.191.140.4:8000/play/a1jh/index.m3u8
-#EXTINF:-1 tvg-id="a1wb" tvg-name="Plim Plim TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wb.png" group-title="INFANTILES",Plim Plim TV
-http://181.191.140.4:8000/play/a1wb/index.m3u8
+#EXTINF:-1 tvg-id="a1s7" tvg-name="Rural" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1s7.png" group-title="INTERES GENERAL",Rural
+http://181.191.140.4:8000/play/a1s7/index.m3u8
+#EXTINF:-1 tvg-id="a0l0" tvg-name="Tlnovelas" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0l0.png" group-title="INTERES GENERAL",Tlnovelas
+http://181.191.140.4:8000/play/a0l0/index.m3u8
+#EXTINF:-1 tvg-id="a0ix" tvg-name="TNT Novelas HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ix.png" group-title="INTERES GENERAL",TNT Novelas HD
+http://181.191.140.4:8000/play/a0ix/index.m3u8
+#EXTINF:-1 tvg-id="a110" tvg-name="TLC" tvg-logo="https://jarap.github.io/iptv-lista/logos/a110.png" group-title="INTERES GENERAL",TLC
+http://181.191.140.4:8000/play/a110/index.m3u8
+#EXTINF:-1 tvg-id="a0gy" tvg-name="TV+ HD" tvg-logo="" group-title="INTERES GENERAL",TV+ HD
+http://181.191.140.4:8000/play/a0gy/index.m3u8
+#EXTINF:-1 tvg-id="a0gz" tvg-name="MEGA HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0gz.png" group-title="INTERES GENERAL",MEGA HD
+http://181.191.140.4:8000/play/a0gz/index.m3u8
+#EXTINF:-1 tvg-id="a1wm" tvg-name="DAYSTAR" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wm.png" group-title="INTERES GENERAL",DAYSTAR
+http://181.191.140.4:8000/play/a1wm/index.m3u8
+#EXTINF:-1 tvg-id="a0h7" tvg-name="E! Entertainment" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0h7.png" group-title="INTERES GENERAL",E! Entertainment
+http://181.191.140.4:8000/play/a0h7/index.m3u8
+#EXTINF:-1 tvg-id="a1wg" tvg-name="Movistar Informa" tvg-logo="" group-title="INTERES GENERAL",Movistar Informa
+http://181.191.140.4:8000/play/a1wg/index.m3u8
+#EXTINF:-1 tvg-id="a1wd" tvg-name="Plus TV Life" tvg-logo="" group-title="INTERES GENERAL",Plus TV Life
+http://181.191.140.4:8000/play/a1wd/index.m3u8
+#EXTINF:-1 tvg-id="a1wf" tvg-name="Willax" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1wf.png" group-title="INTERES GENERAL",Willax
+http://181.191.140.4:8000/play/a1wf/index.m3u8
+#EXTINF:-1 tvg-id="a1lc" tvg-name="HEI HD" tvg-logo="" group-title="MUSICA",HEI HD
+http://181.191.140.4:8000/play/a1lc/index.m3u8
 #EXTINF:-1 tvg-id="a0g9" tvg-name="HTV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g9.png" group-title="MUSICA",HTV
 http://181.191.140.4:8000/play/a0g9/index.m3u8
 #EXTINF:-1 tvg-id="a0g7" tvg-name="MTV HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g7.png" group-title="MUSICA",MTV HD
 http://181.191.140.4:8000/play/a0g7/index.m3u8
 #EXTINF:-1 tvg-id="a0g8" tvg-name="Quiero Musica" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g8.png" group-title="MUSICA",Quiero Musica
 http://181.191.140.4:8000/play/a0g8/index.m3u8
-#EXTINF:-1 tvg-id="a1et" tvg-name="Stingray Concerts HD" tvg-logo="" group-title="MUSICA",Stingray Concerts HD
+#EXTINF:-1 tvg-id="a1et" tvg-name="Stingray Concerts" tvg-logo="" group-title="MUSICA",Stingray Concerts
 http://181.191.140.4:8000/play/a1et/index.m3u8
-#EXTINF:-1 tvg-id="a1gd" tvg-name="Antena 3" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1gd.png" group-title="INTERNACIONALES",Antena 3
-http://181.191.140.4:8000/play/a1gd/index.m3u8
-#EXTINF:-1 tvg-id="a1gs" tvg-name="Canal 13 HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a1gs.png" group-title="INTERNACIONALES",Canal 13 HD
-http://181.191.140.4:8000/play/a1gs/index.m3u8
-#EXTINF:-1 tvg-id="a0g0" tvg-name="CHV HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0g0.png" group-title="INTERNACIONALES",CHV HD
-http://181.191.140.4:8000/play/a0g0/index.m3u8
-#EXTINF:-1 tvg-id="a0kc" tvg-name="DW Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0kc.png" group-title="INTERNACIONALES",DW Español
-http://181.191.140.4:8000/play/a0kc/index.m3u8
-#EXTINF:-1 tvg-id="a0ih" tvg-name="El Canal  de las Estrellas" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ih.png" group-title="INTERNACIONALES",El Canal  de las Estrellas
-http://181.191.140.4:8000/play/a0ih/index.m3u8
-#EXTINF:-1 tvg-id="a0gb" tvg-name="Galicia TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0gb.png" group-title="INTERNACIONALES",Galicia TV
-http://181.191.140.4:8000/play/a0gb/index.m3u8
-#EXTINF:-1 tvg-id="a0ga" tvg-name="RAI Italia" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ga.png" group-title="INTERNACIONALES",RAI Italia
-http://181.191.140.4:8000/play/a0ga/index.m3u8
-#EXTINF:-1 tvg-id="a0ik" tvg-name="TVE" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0ik.png" group-title="INTERNACIONALES",TVE
-http://181.191.140.4:8000/play/a0ik/index.m3u8
-#EXTINF:-1 tvg-id="a0fz" tvg-name="TVN HD" tvg-logo="https://jarap.github.io/iptv-lista/logos/a0fz.png" group-title="INTERNACIONALES",TVN HD
-http://181.191.140.4:8000/play/a0fz/index.m3u8
