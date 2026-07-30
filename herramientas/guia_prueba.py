@@ -28,15 +28,16 @@ FUENTES = {
     "fr": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
 }
 
-# De qué canal de la fuente sale cada canal nuestro. NASA y Red Bull no están en
-# ninguna guía pública que sirva: quedan sin programación y la app muestra
-# "Sin guía", que es lo honesto.
+# De qué canal de la fuente sale cada canal nuestro. CGTN Español y Red Bull no
+# están en ninguna guía pública que sirva: quedan sin programación y la app
+# muestra "Sin guía", que es lo honesto.
 DE_DONDE = {
     "dwes": ("ar", "Canal.DW.(Latinoamérica).ar", "DW Español"),
     "dwen": ("fr", "DW-TV.fr", "DW English"),
-    "f24es": ("fr", "France.24.Espanol.fr", "France 24 Español"),
     "f24en": ("fr", "France.24.Anglais.fr", "France 24 English"),
-    "f24fr": ("fr", "France.24.fr", "France 24 Français"),
+    "euronews": ("fr", "Euronews.fr", "Euronews"),
+    "aljazeera": ("fr", "Al.Jazeera.English.fr", "Al Jazeera English"),
+    "cgtndoc": ("fr", "CGTN-Documentary.fr", "CGTN Documentary"),
 }
 
 DIAS = 3
