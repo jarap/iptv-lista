@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="nasa" group-title="PRUEBA",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="redbull" group-title="PRUEBA",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-id="dwes" group-title="PRUEBA",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="dwen" group-title="PRUEBA",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="f24es" group-title="PRUEBA",France 24 Español
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="f24en" group-title="PRUEBA",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="f24fr" group-title="PRUEBA",France 24 Français
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
