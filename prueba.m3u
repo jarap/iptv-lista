@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://jarap.github.io/iptv-lista/prueba.xml"
 #EXTINF:-1 tvg-id="dwes" tvg-name="DW Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/dw.png" group-title="NOTICIAS",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="f24es" tvg-name="France 24 Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/france24.png" group-title="NOTICIAS",France 24 Español
+#EXTINF:-1 tvg-id="f24es" tvg-name="France 24 Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/france24.png?v=2" group-title="NOTICIAS",France 24 Español
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="dwen" tvg-name="DW English" tvg-logo="https://jarap.github.io/iptv-lista/logos/dw.png" group-title="INTERNACIONALES",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="f24en" tvg-name="France 24 English" tvg-logo="https://jarap.github.io/iptv-lista/logos/france24.png" group-title="INTERNACIONALES",France 24 English
+#EXTINF:-1 tvg-id="f24en" tvg-name="France 24 English" tvg-logo="https://jarap.github.io/iptv-lista/logos/france24.png?v=2" group-title="INTERNACIONALES",France 24 English
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="f24fr" tvg-name="France 24 Français" tvg-logo="https://jarap.github.io/iptv-lista/logos/france24.png" group-title="INTERNACIONALES",France 24 Français
+#EXTINF:-1 tvg-id="f24fr" tvg-name="France 24 Français" tvg-logo="https://jarap.github.io/iptv-lista/logos/france24.png?v=2" group-title="INTERNACIONALES",France 24 Français
 https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="nasa" tvg-name="NASA TV" tvg-logo="https://jarap.github.io/iptv-lista/logos/nasa.png" group-title="CIENCIA",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
