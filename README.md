@@ -1,18 +1,29 @@
 # Lista de canales
 
-`tv.m3u` — la lista que sale directo de Astra, con la guía y los logos ya
-puestos. Se carga pegando esta dirección en el reproductor:
+`tv.m3u` — la lista de siempre, con la guía y los logos ya puestos. Se carga
+pegando esta dirección en el reproductor:
 
 ```
 https://jarap.github.io/iptv-lista/tv.m3u
 ```
 
+`iptv.m3u` tiene los mismos 151 canales y apunta al mismo lado. Las dos son
+equivalentes.
+
 ## Las direcciones son privadas
 
-Los canales apuntan a `10.10.19.246`, que es el Astra. La lista se publica acá
+Los canales apuntan a `10.10.21.4`, que es el caché. La lista se publica acá
 para poder cargarla de una sola vez desde cualquier aparato, pero **se ve
 únicamente desde la red interna**: desde afuera, la dirección no resuelve a
 ningún lado.
+
+El caché es un nginx delante del Astra: reescribe a rutas relativas los enlaces
+que Astra genera apuntándose a sí mismo, así el reproductor se queda del lado
+del caché y no sale a buscar el origen. Cuando varios piden el mismo pedazo de
+video al mismo tiempo, sale un solo pedido al Astra en vez de uno por cada uno.
+
+**Ninguna de las dos listas debe apuntar a una dirección pública.** El día que
+apuntaron a una, la lista quedó funcionando desde cualquier parte del mundo.
 
 ## La guía viene sola
 
