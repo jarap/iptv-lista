@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://jarap.github.io/iptv-lista/prueba.xml"
 #EXTINF:-1 tvg-id="dwes" tvg-name="DW Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/dw.png" group-title="NOTICIAS",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="cgtnes" tvg-name="CGTN Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/cgtnes.png" group-title="NOTICIAS",CGTN Español
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="f24es" tvg-name="France 24 Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/france24.png" group-title="NOTICIAS",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" tvg-logo="https://jarap.github.io/iptv-lista/logos/euronews.png" group-title="NOTICIAS",Euronews
 https://jmp2.uk/plu-61de8e502c8e9400077e5de7.m3u8
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="Al Jazeera English" tvg-logo="https://jarap.github.io/iptv-lista/logos/aljazeera.png" group-title="INTERNACIONALES",Al Jazeera English
