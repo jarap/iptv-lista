@@ -11,8 +11,9 @@ país entero serían 46 MB para siete canales, y en un televisor eso se nota.
 
     python3 herramientas/guia_prueba.py
 
-Escribe prueba.xml al lado de prueba.m3u. Conviene volver a correrlo cada tanto:
-una guía vieja no muestra nada.
+Escribe prueba.xml al lado de prueba.m3u, con guía para DIAS días: lo que la
+fuente no alcanza a traer se completa repitiendo su último día. Conviene volver
+a correrlo cada tanto: una guía vieja no muestra nada.
 """
 import gzip
 import os
@@ -40,13 +41,45 @@ DE_DONDE = {
     "cgtndoc": ("fr", "CGTN-Documentary.fr", "CGTN Documentary"),
 }
 
-DIAS = 3
+DIAS = 9
+
+FORMATO = "%Y%m%d%H%M%S %z"
+UN_DIA = timedelta(days=1)
 
 
 def bajar(url):
     pedido = urllib.request.Request(url, headers={"User-Agent": "zapping-guia/1.0"})
     with urllib.request.urlopen(pedido, timeout=180) as r:
         return gzip.decompress(r.read()).decode("utf-8", "replace")
+
+
+def horario(atributos, cual):
+    return datetime.strptime(re.search(cual + r'="([^"]+)"', atributos).group(1), FORMATO)
+
+
+def rellenar(programas, hasta):
+    """La fuente trae tres o cuatro días. Lo que falta hasta `hasta` se completa
+    repitiendo el último día que sí trae: son canales de noticias, con la misma
+    grilla todos los días, y para una lista de prueba alcanza."""
+    if not programas:
+        return []
+    fin = max(horario(a, "stop") for a, _ in programas)
+    ultimo_dia = [(a, c) for a, c in programas
+                  if horario(a, "stop") > fin - UN_DIA and horario(a, "start") < fin]
+    repetidos = []
+    corrido = UN_DIA
+    while fin + corrido - UN_DIA < hasta:
+        for atributos, cuerpo in ultimo_dia:
+            # el que venía empezado de antes arranca donde termina lo anterior
+            arranque = max(horario(atributos, "start") + corrido, fin + corrido - UN_DIA)
+            cierre = horario(atributos, "stop") + corrido
+            if arranque >= hasta:
+                break
+            atributos = re.sub(r'start="[^"]+"', f'start="{arranque.strftime(FORMATO)}"', atributos)
+            atributos = re.sub(r'stop="[^"]+"', f'stop="{cierre.strftime(FORMATO)}"', atributos)
+            repetidos.append((atributos, cuerpo))
+        corrido += UN_DIA
+    return repetidos
 
 
 def main():
@@ -68,18 +101,19 @@ def main():
         patron = re.compile(
             r'<programme([^>]*channel="' + re.escape(ajeno) + r'"[^>]*)>(.*?)</programme>',
             re.S)
-        puestos = 0
+        programas = []
         for m in patron.finditer(texto):
             atributos, cuerpo = m.group(1), m.group(2)
-            arranque = re.search(r'start="(\d{14})', atributos)
-            if arranque and datetime.strptime(arranque.group(1), "%Y%m%d%H%M%S").replace(
-                    tzinfo=timezone.utc) > hasta:
+            if horario(atributos, "start") > hasta:
                 continue
             atributos = atributos.replace(f'channel="{ajeno}"', f'channel="{nuestro}"')
+            programas.append((atributos, cuerpo))
+        programas.sort(key=lambda p: horario(p[0], "start"))
+        repetidos = rellenar(programas, hasta)
+        for atributos, cuerpo in programas + repetidos:
             salida.append(f"  <programme{atributos}>{cuerpo}</programme>")
-            puestos += 1
-        print(f"  {nuestro:6s} {puestos:4d} programas")
-        total += puestos
+        print(f"  {nuestro:6s} {len(programas):4d} programas + {len(repetidos):4d} repetidos")
+        total += len(programas) + len(repetidos)
 
     salida.append("</tv>")
     destino = os.path.join(RAIZ, "prueba.xml")
