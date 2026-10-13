@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """Arma la guía de la lista de prueba.
 
-La lista de prueba son siete canales internacionales libres, y sirve para dos
+La lista de prueba son ocho canales internacionales libres, y sirve para dos
 cosas: las capturas de la ficha de Play y que el revisor pueda probar la app sin
 que le demos una lista de verdad. Sin guía la app se ve en su peor versión —el
 mosaico muestra el grupo en vez del programa—, así que acá se le arma una.
 
 La guía se saca de un XMLTV público y se recorta a estos canales: bajarse el
-país entero serían 46 MB para siete canales, y en un televisor eso se nota.
+país entero serían 46 MB para ocho canales, y en un televisor eso se nota.
 
     python3 herramientas/guia_prueba.py
 
@@ -27,6 +27,7 @@ RAIZ = os.path.dirname(AQUI)
 FUENTES = {
     "ar": "https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz",
     "fr": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
+    "uk": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
 }
 
 # De qué canal de la fuente sale cada canal nuestro. CGTN Español y Red Bull no
@@ -36,12 +37,16 @@ DE_DONDE = {
     "dwes": ("ar", "Canal.DW.(Latinoamérica).ar", "DW Español"),
     "dwen": ("fr", "DW-TV.fr", "DW English"),
     "f24en": ("fr", "France.24.Anglais.fr", "France 24 English"),
-    "euronews": ("fr", "Euronews.fr", "Euronews"),
+    # Euronews salió de la lista: su dirección (un Pluto) deja al reproductor del
+    # televisor Samsung en negro, sin error. TRT World anda en todos.
+    "trtworld": ("uk", "TRT.World.uk", "TRT World"),
     "aljazeera": ("fr", "Al.Jazeera.English.fr", "Al Jazeera English"),
     "cgtndoc": ("fr", "CGTN-Documentary.fr", "CGTN Documentary"),
 }
 
-DIAS = 9
+# Treinta días: una revisión de tienda puede tardar semanas, y con la guía vencida
+# el revisor ve «sin guía» en todos los canales (pasó: venció el 11/10/2026).
+DIAS = 30
 
 FORMATO = "%Y%m%d%H%M%S %z"
 UN_DIA = timedelta(days=1)

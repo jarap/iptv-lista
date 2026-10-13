@@ -3,8 +3,8 @@
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="f24es" tvg-name="France 24 Español" tvg-logo="https://jarap.github.io/iptv-lista/logos/france24.png" group-title="NOTICIAS",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" tvg-logo="https://jarap.github.io/iptv-lista/logos/euronews.png" group-title="NOTICIAS",Euronews
-https://jmp2.uk/plu-61de8e502c8e9400077e5de7.m3u8
+#EXTINF:-1 tvg-id="trtworld" tvg-name="TRT World" tvg-logo="https://jarap.github.io/iptv-lista/logos/trtworld.png" group-title="NOTICIAS",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="Al Jazeera English" tvg-logo="https://jarap.github.io/iptv-lista/logos/aljazeera.png" group-title="INTERNACIONALES",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="dwen" tvg-name="DW English" tvg-logo="https://jarap.github.io/iptv-lista/logos/dw.png" group-title="INTERNACIONALES",DW English
